@@ -23,7 +23,7 @@
 	font-style: normal;
 }
 @font-face {
-	font-family: 'NewYorkExtraLarge';
+	font-family: 'NewYork';
 	src: url('/fonts/NewYorkExtraLarge.woff2') format('woff2'),
 		url('/fonts/NewYorkExtraLarge.woff') format('woff');
 	font-display: swap;

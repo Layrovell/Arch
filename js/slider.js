@@ -57,3 +57,4 @@ dots.forEach((dot, idx) => {
     }
   });
 });
+
